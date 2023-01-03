@@ -1,4 +1,4 @@
-## Görünüm Yerleştirme YöntemlerCancel changesi ##
+## Görünüm Yerleştirme Yöntemlereri ##
 
 wrap_content: Bir Component'in içeriğinin tamamı görünecek kadar olan bir  boyutlandırma seçeneğidir. 
 
