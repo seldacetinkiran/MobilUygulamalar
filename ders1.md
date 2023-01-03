@@ -13,10 +13,10 @@ Genişlik ve yükseklik değerlerini verirken wrap_content ve Match_parent yerin
 
 Ölçü Birimleri
 
-px (Pixels):  Ekrandaki gerçek piksellere karşılık gelir.
-in (Inches):   Ekrandaki inç olarak karşılığıdır.
-mm (Millimeters):  Ekrandaki mm olarak karşılığıdır.
-pt (Points): Ekranın fiziksel boyutuna bağlı olarak 1/72 inç oranındadır.
-dp (Density-independent Pixels): Ekranın fiziksel yoğunluğunu temel alan soyut bir birim. Bu birimler 160 dpi ekrana göredir, bu nedenle 160 dpi ekranda bir dp, bir pikseldir. Dp-piksel oranı, ekran yoğunluğu ile değişecektir, ancak doğrudan orantılı olması gerekmez
+px (Pixels):  Ekrandaki gerçek piksellere karşılık gelir.<br>
+in (Inches):   Ekrandaki inç olarak karşılığıdır.<br>
+mm (Millimeters):  Ekrandaki mm olarak karşılığıdır.<br>
+pt (Points): Ekranın fiziksel boyutuna bağlı olarak 1/72 inç oranındadır.<br>
+dp (Density-independent Pixels): Ekranın fiziksel yoğunluğunu temel alan soyut bir birim. Bu birimler 160 dpi ekrana göredir, bu nedenle 160 dpi ekranda bir dp, bir pikseldir. Dp-piksel oranı, ekran yoğunluğu ile değişecektir, ancak doğrudan orantılı olması gerekmez<br>
 
-sp (Scaleable-independent Pixels):Bu, dp birimi gibidir, ancak kullanıcının yazı tipi boyutu tercihine göre de ölçeklenir. Yazı tipi boyutlarını belirtirken bu birimi kullanmanız önerilir, böylece hem ekran yoğunluğuna hem de kullanıcının tercihine göre ayarlanacaktır.
+sp (Scaleable-independent Pixels):Bu, dp birimi gibidir, ancak kullanıcının yazı tipi boyutu tercihine göre de ölçeklenir. Yazı tipi boyutlarını belirtirken bu birimi kullanmanız önerilir, böylece hem ekran yoğunluğuna hem de kullanıcının tercihine göre ayarlanacaktır.<br>
